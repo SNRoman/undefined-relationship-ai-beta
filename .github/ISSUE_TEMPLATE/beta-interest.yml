@@ -1,0 +1,52 @@
+name: Beta interest
+description: Tell us which AI companion beta experience you want to try.
+title: "Beta interest: "
+labels: ["beta-interest"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for checking Undefined Relationship.
+
+        This is an AI companion beta. It is not human companionship, therapy, medical advice, adult content, or crisis support.
+
+        Beta entry: https://09881216.undefined-relationship-beta.pages.dev/?utm_source=github_issue_form&plan=7天
+
+        Payment remark for this form: `GHFORM-A-your-name-7天`
+  - type: dropdown
+    id: plan
+    attributes:
+      label: Which beta plan feels acceptable?
+      options:
+        - 1-day trial, 9.9 CNY
+        - 7-day early beta, 19.9 CNY
+        - 30-day early access, 39.9 CNY
+        - Not ready to pay yet
+    validations:
+      required: true
+  - type: dropdown
+    id: feature
+    attributes:
+      label: Which feature matters most?
+      options:
+        - Long-term memory
+        - Relationship state changes
+        - Proactive messages
+        - AI moments
+        - Boundary-aware replies
+    validations:
+      required: true
+  - type: textarea
+    id: expectation
+    attributes:
+      label: What would make this worth paying for?
+      placeholder: Tell us the moment, behavior, or boundary that would make the beta useful.
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: Boundaries
+      options:
+        - label: I understand this is an AI beta, not human companionship or therapy.
+          required: true

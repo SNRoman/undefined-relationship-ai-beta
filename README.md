@@ -38,6 +38,10 @@ Public feedback thread:
 
 https://github.com/SNRoman/undefined-relationship-ai-beta/issues/1
 
+Structured beta interest form:
+
+https://github.com/SNRoman/undefined-relationship-ai-beta/issues/new?template=beta-interest.yml
+
 Share link:
 
 https://09881216.undefined-relationship-beta.pages.dev/?utm_source=share&plan=7天
@@ -46,6 +50,12 @@ Payment remarks generated from this repository should use:
 
 ```text
 GHREPO-A-your-name-7天
+```
+
+Payment remarks generated from the interest form should use:
+
+```text
+GHFORM-A-your-name-7天
 ```
 
 ## Not Suitable For

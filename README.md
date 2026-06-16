@@ -1,5 +1,7 @@
 # Undefined Relationship AI Companion Beta
 
+Repository: `SNRoman/undefined-relationship-ai-beta`
+
 Undefined Relationship is an early paid beta for a relationship-driven AI companion app.
 
 It is not a character-preset toy, not human companionship, and not therapy. The product explores a more constrained question:

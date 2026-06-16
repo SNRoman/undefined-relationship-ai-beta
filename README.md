@@ -34,6 +34,10 @@ Public feedback / notes:
 
 https://gist.github.com/SNRoman/939a1879d704f313d8d7332cf38826f6
 
+Public feedback thread:
+
+https://github.com/SNRoman/undefined-relationship-ai-beta/issues/1
+
 Share link:
 
 https://09881216.undefined-relationship-beta.pages.dev/?utm_source=share&plan=7天
